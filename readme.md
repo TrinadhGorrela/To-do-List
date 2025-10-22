@@ -1,4 +1,4 @@
-**To-Do List App**
+To-Do List App
 ---
 **Overview:**
 
@@ -74,11 +74,9 @@ You can add, edit, complete, and delete tasks easily.
 
 **About Me:**
 
-Trinadh Gorrela
-
-GitHub: https://github.com/TrinadhGorrela
+Made by [**Siva Satya Trinadh Gorrela**](https://github.com/TrinadhGorrela).
 
 ---
 
-Thanks for checking out my project
+*Thanks for checking out my project*  
 
